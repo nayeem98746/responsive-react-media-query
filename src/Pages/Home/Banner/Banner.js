@@ -6,8 +6,8 @@ import banner3 from '../../../images/banner/banner3.jpg'
 
 const Banner = () => {
     return (
-        <div>
-            <h3 className="text-primary">Genius-Car-Mechanics</h3>
+        
+            
               <>
           <Carousel>
   <Carousel.Item>
@@ -47,7 +47,7 @@ const Banner = () => {
   </Carousel.Item>
 </Carousel>
         </>
-        </div>
+        
       
     );
 };
